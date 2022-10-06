@@ -1,18 +1,18 @@
 {
   "name": "aa97-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "หวยออกออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"หวยออกออนไลน์",
-"การสมัครเว็บหวย",
-"lottovip บาทละ95",
-"เว็บหวยรัฐบาล",
-"lottoviplogo"
-],
+  "version": "0.2.0",
+  "description": "หวยออกออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "หวยออกออนไลน์",
+    "การสมัครเว็บหวย",
+    "lottovip บาทละ95",
+    "เว็บหวยรัฐบาล",
+    "lottoviplogo"
+  ],
   "repository": "https://github.com/setteebet/aa97-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
